@@ -5,10 +5,10 @@ This is a Python project that allows users to track the price of a specific prod
 
 # Dependencies:
 This project requires the following dependencies to be installed:
-Python 3.x
-BeautifulSoup
-Requests
-smtplib
+1. Python 3.x
+2. BeautifulSoup
+3. Requests
+4. smtplib
 
 
 # Usage:
